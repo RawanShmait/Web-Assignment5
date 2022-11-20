@@ -110,3 +110,10 @@
     text-decoration: none;
     padding: 5px;
 }
+
+.feed{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0 0 10px;
+}
