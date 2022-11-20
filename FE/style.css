@@ -90,3 +90,10 @@
     height: 10px;
     width: 200px;
 }
+
+.search input{
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    background: transparent;
+}
