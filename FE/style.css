@@ -34,3 +34,12 @@
     justify-content: center;
     margin-top: 10px;
 }
+
+.profile-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    border: 2px solid #e2336b;
+    border-radius: 50%;
+}
