@@ -70,3 +70,7 @@
 .options .icon{
     margin-right: 20px;
 }
+
+.options .feed-icon, .options a:hover{
+    color: #e2336b;
+}
