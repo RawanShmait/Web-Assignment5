@@ -144,3 +144,11 @@
     height: 35px;
     width: 35px;
 }
+
+.prof-pic img{
+    object-position: center;
+    object-fit: cover;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
