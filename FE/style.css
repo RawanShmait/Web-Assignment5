@@ -127,3 +127,9 @@
     height: 350px;
     width: 100%;
 }
+
+.post-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
