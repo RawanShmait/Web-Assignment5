@@ -50,3 +50,9 @@
     height: 150px;
     width: 150px;
 }
+
+.name{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
