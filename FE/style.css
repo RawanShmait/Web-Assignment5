@@ -56,3 +56,13 @@
     align-items: center;
     margin: 10px;
 }
+
+.options a{
+    display: flex;
+    align-items: center;
+    line-height: 50px;
+    text-decoration: none;
+    margin: 15px 0 0 15px;
+    font-size: 25px;
+    width: 100%;
+}
