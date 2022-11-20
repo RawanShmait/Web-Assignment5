@@ -133,3 +133,14 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.prof-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #e2336b;
+    border-radius: 50%;
+    margin-right: 5px;
+    height: 35px;
+    width: 35px;
+}
