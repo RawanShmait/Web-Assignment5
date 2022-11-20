@@ -20,3 +20,9 @@
     left: 300px;
     background-color: #FBFACD;
 }
+
+.logo_img img{
+    padding: 10px 0 0 10px;
+    width: 280px;
+    height: 60px;
+}
